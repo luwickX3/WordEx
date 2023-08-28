@@ -1,0 +1,13 @@
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\bin\Debug\WinEx1.exe.config
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\bin\Debug\WinEx1.exe
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\bin\Debug\WinEx1.pdb
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\bin\Debug\WinEx1.xml
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\obj\Debug\WinEx1.vbproj.AssemblyReference.cache
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\obj\Debug\WinEx1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\obj\Debug\WinEx1.Form1.resources
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\obj\Debug\WinEx1.Resources.resources
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\obj\Debug\WinEx1.vbproj.GenerateResource.cache
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\obj\Debug\WinEx1.vbproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\obj\Debug\WinEx1.exe
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\obj\Debug\WinEx1.xml
+C:\Users\Rodrigo Alexis\source\repos\WinEx1\WinEx1\obj\Debug\WinEx1.pdb
